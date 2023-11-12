@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "example_01"
+		},
+		{
+			"path": "workout_gateway"
+		},
+		{
+			"path": "entrypoint"
 		}
 	]
 }
