@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "entrypoint"
+		},
+		{
+			"path": "debugging"
 		}
 	]
 }
