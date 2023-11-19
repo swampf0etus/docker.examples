@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "multi_tier"
+		},
+		{
+			"path": "my_multi_tier"
 		}
 	]
 }
